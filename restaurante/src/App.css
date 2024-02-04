@@ -76,7 +76,7 @@ input:checked + label {
   object-fit: cover;
 }
 
-@media screen and (max-width: 352px) {
+@media screen and (max-width: 400px) {
   * {
     margin: 0;
     border: none;
